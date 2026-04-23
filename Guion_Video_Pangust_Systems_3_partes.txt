@@ -1,0 +1,23 @@
+GUION EXPLICATIVO PARA VIDEO (3 A 5 MINUTOS)
+Asignatura: Analisis y Diseno de Sistemas
+Grupo: 2 - Computacion - CUE
+Integrantes: Daniel Guanga, Leo Vasconez, Xavier Siguachi
+Empresa: Pangust Systems
+
+PARTE 1 (0:00 - 1:20) - Contexto y mision
+Hola, somos Daniel Guanga, Leo Vasconez y Xavier Siguachi, del Grupo 2 de Computacion - CUE, y presentamos el informe de mision, vision y valores de Pangust Systems, una empresa enfocada en desarrollo de software, automatizacion y ciberseguridad para pymes.
+Para construir la mision analizamos nueve componentes: clientes, servicios, mercado, tecnologia, rentabilidad, filosofia, ventaja competitiva, imagen publica y rol de los empleados.
+Con base en ese analisis, nuestra mision es: desarrollar soluciones tecnologicas integrales para pymes, combinando software, automatizacion y ciberseguridad, para mejorar su eficiencia y proteger su informacion con un servicio etico y orientado a resultados.
+
+PARTE 2 (1:20 - 3:00) - Valores
+Definimos tres valores principales.
+Primero, innovacion con proposito: no usamos tecnologia por moda, sino para resolver problemas reales del cliente.
+Segundo, compromiso con la seguridad: protegemos datos y procesos criticos con buenas practicas tecnicas y eticas.
+Tercero, orientacion al cliente: adaptamos cada solucion a las necesidades de cada pyme y mantenemos acompanamiento continuo.
+Estos valores sostienen nuestra forma de trabajo diaria y fortalecen la confianza con los clientes.
+
+PARTE 3 (3:00 - 4:40) - Vision y cierre
+Nuestra vision al 2027 es ser una empresa referente en Ecuador en transformacion digital y ciberseguridad para pymes, reconocida por innovacion, confiabilidad y resultados sostenibles.
+Para validar esta vision utilizamos una escala tipo Likert y observamos acuerdo en que la meta es clara, alcanzable y motivante para el equipo.
+En conclusion, la mision define nuestro proposito presente, los valores orientan nuestro comportamiento y la vision marca el rumbo de crecimiento a cinco anos.
+Gracias por su atencion.
