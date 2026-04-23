@@ -5,7 +5,7 @@ Integrantes: Daniel Guanga, Leo Vasconez, Xavier Siguachi
 Empresa: Pangust Systems
 
 PARTE 1 (0:00 - 1:20) - Contexto y mision
-Hola, somos Daniel Guanga, Leo Vasconez y Xavier Siguachi, del Grupo 2 de Computacion - CUE, y presentamos el informe de mision, vision y valores de Pangust Systems, una empresa enfocada en desarrollo de software, automatizacion y ciberseguridad para pymes.
+Buenos dias, vamos a presentar nuestra empresa, estamos conformados por Daniel Guanga, Leo Vasconez y Xavier Siguachi, del Grupo 2 de Computacion - CUE, y presentamos el informe de mision, vision y valores de Pangust Systems, una empresa enfocada en desarrollo de software, automatizacion y ciberseguridad para pymes.
 Para construir la mision analizamos nueve componentes: clientes, servicios, mercado, tecnologia, rentabilidad, filosofia, ventaja competitiva, imagen publica y rol de los empleados.
 Con base en ese analisis, nuestra mision es: desarrollar soluciones tecnologicas integrales para pymes, combinando software, automatizacion y ciberseguridad, para mejorar su eficiencia y proteger su informacion con un servicio etico y orientado a resultados.
 
@@ -21,3 +21,17 @@ Nuestra vision al 2027 es ser una empresa referente en Ecuador en transformacion
 Para validar esta vision utilizamos una escala tipo Likert y observamos acuerdo en que la meta es clara, alcanzable y motivante para el equipo.
 En conclusion, la mision define nuestro proposito presente, los valores orientan nuestro comportamiento y la vision marca el rumbo de crecimiento a cinco anos.
 Gracias por su atencion.
+
+PARTE FINAL (4:40 - 5:00) - Uso de inteligencia artificial y participacion individual
+Como grupo, usamos inteligencia artificial con la herramienta GitHub Copilot (modelo GPT-5.3-Codex) como apoyo para:
+1) organizar el borrador inicial del informe,
+2) mejorar la redaccion academica en formato APA 7,
+3) revisar ortografia y coherencia del documento,
+4) estructurar el guion del video en 3 partes.
+
+El contenido fue revisado, ajustado y validado por nosotros antes de la entrega final.
+
+Participacion individual (ejemplo para declarar en el video):
+- Daniel Guanga: coordinacion del trabajo, consolidacion de mision, vision y valores, y revision final del informe.
+- Leo Vasconez: desarrollo del analisis FODA, redaccion de estrategias y aporte en la tabla de componentes de la mision.
+- Xavier Siguachi: verificacion de formato APA 7, construccion de referencias y preparacion del guion para la exposicion.
