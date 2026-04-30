@@ -1,0 +1,58 @@
+Objetivos Estratégicos, Planificación y Recursos
+Pangust Systems
+Daniel Guanga, Leo Vasconez, Xavier Siguachi
+
+1. TABLA DE OBJETIVOS ESTRATÉGICOS
+
+Área | Corto Plazo (1 año) | Mediano Plazo (5 años) | Largo Plazo (10+ años)
+---|---|---|---
+Recursos Humanos | Consolidar equipo técnico especializado en software y ciberseguridad | Desarrollar programas de formación continua para responder a cambios tecnológicos | Posicionar a Pangust como empresa referente en atracción de talento TI en Ecuador
+Tecnología | Implementar soluciones integradas con tecnologías cloud modernas | Expandir plataforma multi-nube con análisis de datos predictivo | Crear infraestructura tecnológica de clase mundial con alcance global
+Servicios | Lanzar paquetes integrados de digitalización y seguridad para pymes | Consolidar consultoría, implementación y soporte en mercado regional | Posicionarse como referente regional en transformación digital
+
+2. TRES OBJETIVOS ESTRATÉGICOS SELECCIONADOS
+
+OBJETIVO 1 - RECURSOS HUMANOS (CORTO PLAZO)
+Objetivo: Consolidar equipo técnico especializado en software y ciberseguridad
+Meta esperada: Equipo de 12-15 profesionales consolidado con roles definidos
+
+Actividades | Responsable | Recursos | Tiempo
+---|---|---|---
+1. Definir roles y competencias clave del equipo | Gerencia/Daniel Guanga | Especialista RRHH, matriz de competencias, software de evaluación | 2 semanas
+2. Implementar capacitación en cloud y ciberseguridad | Líder Técnico/Leo Vasconez | Capacitador especializado, cursos AWS/Azure/CISCP, laboratorios virtuales | 3 meses
+3. Sistema de evaluación y seguimiento de desempeño | Coordinador RRHH | Especialista evaluación, rúbricas, herramientas de gestión | 1 mes
+4. Programa de incentivos y retención de talento | Gerencia/Daniel Guanga | Especialista RRHH, políticas de incentivos, presupuesto bonificación | Continuo
+
+OBJETIVO 2 - TECNOLOGÍA (MEDIANO PLAZO)
+Objetivo: Expandir plataforma tecnológica hacia soluciones multi-nube y análisis de datos
+Meta esperada: Plataforma integrada con multi-nube, análisis predictivo y ciberseguridad certificada
+
+Actividades | Responsable | Recursos | Tiempo
+---|---|---|---
+1. Diseñar arquitectura multi-nube | Arquitecto/Xavier Siguachi | 2 arquitectos cloud, especialista seguridad, herramientas modelado | 6 meses
+2. Implementar módulo de análisis de datos | Líder Técnico/Leo Vasconez | 2 desarrolladores, especialista BI, servidores, Tableau/Power BI | 8 meses
+3. Obtener certificaciones ISO 27001 y normativas | Especialista Ciberseguridad | 2 especialistas seguridad, auditor externo, herramientas análisis | 10 meses
+4. Expandir a nuevos clientes por alianzas | Gerencia/Daniel Guanga | Especialista ventas, propuestas comerciales, marketing digital | Continuo
+
+OBJETIVO 3 - SERVICIOS (LARGO PLAZO)
+Objetivo: Posicionarse como referente regional en transformación digital y ciberseguridad
+Meta esperada: Presencia en 5+ países; 50+ clientes corporativos; ingresos $3M+ anuales
+
+Actividades | Responsable | Recursos | Tiempo
+---|---|---|---
+1. Desarrollar cartera completa de servicios especializados | Director Servicios | 5+ consultores, ingenieros implementación, equipo soporte 24/7 | 2+ años
+2. Establecer centros regionales en países clave | Gerencia/Daniel Guanga | Gerentes regionales, oficinas, servidores locales, infraestructura | 3-5 años
+3. Programa de certificación de partners | Director Comercial | Especialista alianzas, programa certificación, capacitación partners | 2-3 años
+4. Consolidar marca como referente | Marketing/Gerencia | Especialista marketing, publicaciones, conferencias internacionales | Continuo
+
+ALINEACIÓN CON MISIÓN Y VISIÓN
+Misión: Desarrollar soluciones tecnológicas integrales para pymes (software, automatización, ciberseguridad) mejorando eficiencia, protegiendo información, con servicio cercano y ético.
+
+Visión: Al 2027, ser empresa referente en transformación digital y ciberseguridad para pymes en Ecuador, reconocida por innovación y confiabilidad.
+
+Valores: Innovación con propósito, Compromiso con seguridad, Orientación al cliente
+
+Los objetivos responden a la misión mediante consolidación de equipo especializado (soluciones integrales), expansión de plataforma multi-nube (automatización y seguridad) y desarrollo de servicios especializados (servicio cercano). La visión al 2027 se alcanza progresivamente: corto plazo (consolidar), mediano plazo (expandir), largo plazo (posicionar como referente regional).
+
+Bibliografía
+Chiavenato, I., & Sapiro, A. (2017). Planeación estratégica. México: McGraw-Hill Interamericana.

@@ -1,0 +1,172 @@
+OBJETIVOS ESTRATÉGICOS, PLANIFICACIÓN Y RECURSOS
+PANGUST SYSTEMS
+Integrantes: Daniel Guanga, Leo Vasconez, Xavier Siguachi
+Asignatura: Análisis y Diseño de Sistemas (AnaDisSis) - U2
+
+====================================
+1. TABLA DE OBJETIVOS ESTRATÉGICOS
+====================================
+
+Áreas | Corto Plazo (hasta 1 año) | Mediano Plazo (hasta 5 años) | Largo Plazo (más de 10 años)
+---|---|---|---
+Recursos Humanos | Consolidar equipo técnico especializado en software y ciberseguridad aprovechando experiencia interna | Desarrollar programas de formación continua y retención de talento para responder a cambios tecnológicos | Posicionar a Pangust Systems como empresa referente en atracción y retención de talento TI en Ecuador
+Tecnología | Implementar soluciones integradas de software, automatización y ciberseguridad con tecnologías cloud modernas | Expandir plataforma tecnológica hacia soluciones multi-nube y análisis de datos para pymes | Crear infraestructura tecnológica de clase mundial con capacidad de servicio global y máxima seguridad
+Servicios | Lanzar paquetes integrados de digitalización y seguridad dirigidos a pymes ecuatorianas | Consolidar servicios de consultoría, implementación y soporte continuo en mercado regional | Ser referente regional en soluciones de transformación digital y ciberseguridad con presencia en múltiples países
+
+====================================
+2. TRES OBJETIVOS ESTRATÉGICOS SELECCIONADOS
+====================================
+
+═══════════════════════════════════════════════════════════
+OBJETIVO 1: RECURSOS HUMANOS (CORTO PLAZO - 1 AÑO)
+═══════════════════════════════════════════════════════════
+
+Objetivo: Consolidar equipo técnico especializado en software y ciberseguridad aprovechando experiencia interna
+
+Meta esperada: Equipo de 12-15 profesionales consolidado con roles definidos en software, automatización y ciberseguridad
+
+ACTIVIDADES Y RECURSOS:
+
+1. Definir roles y competencias clave en el equipo actual
+   Responsable: Gerencia General / Daniel Guanga
+   Recursos:
+   - Personal: 1 especialista en gestión de talento
+   - Materiales: matriz de competencias, análisis de brechas
+   - Equipos: software de evaluación de desempeño
+   Tiempo: 2 semanas
+
+2. Implementar plan de capacitación técnica en soluciones cloud y ciberseguridad
+   Responsable: Líder Técnico / Leo Vasconez
+   Recursos:
+   - Personal: 1 capacitador especializado, 1 coordinador académico
+   - Materiales: cursos certificados AWS, Azure, CISSP
+   - Equipos: laboratorios virtuales, servidores de prueba
+   Tiempo: 3 meses
+
+3. Establecer sistema de evaluación y seguimiento del desempeño técnico
+   Responsable: Coordinador RRHH
+   Recursos:
+   - Personal: especialista en evaluación de desempeño
+   - Materiales: rúbricas de evaluación, reportes periódicos
+   - Software: herramientas de gestión de desempeño
+   Tiempo: 1 mes (implementación), continuo (seguimiento)
+
+4. Crear programa de incentivos y retención de talento técnico clave
+   Responsable: Gerencia General / Daniel Guanga
+   Recursos:
+   - Personal: especialista en RRHH, asesor legal
+   - Materiales: políticas de incentivos, planes de carrera
+   - Presupuesto: bonificación por desempeño, beneficios adicionales
+   Tiempo: 1 mes (diseño), continuo (aplicación)
+
+═══════════════════════════════════════════════════════════
+OBJETIVO 2: TECNOLOGÍA (MEDIANO PLAZO - 5 AÑOS)
+═══════════════════════════════════════════════════════════
+
+Objetivo: Expandir plataforma tecnológica hacia soluciones multi-nube y análisis de datos para pymes
+
+Meta esperada: Plataforma integrada con capacidades multi-nube, análisis predictivo y ciberseguridad certificada operando en 10+ clientes pymes
+
+ACTIVIDADES Y RECURSOS:
+
+1. Diseñar arquitectura multi-nube y plan de migración tecnológica
+   Responsable: Arquitecto de Soluciones / Xavier Siguachi
+   Recursos:
+   - Personal: 2 arquitectos cloud, 1 especialista en seguridad
+   - Materiales: documentación técnica, diagramas de arquitectura
+   - Equipos: herramientas de modelado arquitectónico
+   Tiempo: 6 meses
+
+2. Implementar módulo de análisis de datos y dashboards para seguimiento empresarial
+   Responsable: Líder Técnico / Leo Vasconez
+   Recursos:
+   - Personal: 2 desarrolladores backend, 1 especialista en BI
+   - Materiales: librerías de análisis (Python, R)
+   - Equipos: servidores de procesamiento, bases de datos NoSQL
+   - Software: Tableau, Power BI, herramientas de análisis
+   Tiempo: 8 meses
+
+3. Obtener certificaciones de seguridad ISO 27001 y cumplimiento normativo
+   Responsable: Especialista en Ciberseguridad
+   Recursos:
+   - Personal: 2 especialistas en seguridad, auditor externo certificado
+   - Materiales: políticas de seguridad, procedimientos
+   - Equipos: herramientas de análisis de vulnerabilidades
+   Tiempo: 10 meses
+
+4. Expandir plataforma a nuevos clientes mediante alianzas estratégicas con cámaras de comercio
+   Responsable: Gerencia General / Daniel Guanga
+   Recursos:
+   - Personal: especialista en ventas y alianzas
+   - Materiales: propuestas comerciales, case studies, documentación
+   - Presupuesto: eventos de presentación, marketing digital
+   Tiempo: 12 meses (continuo)
+
+═══════════════════════════════════════════════════════════
+OBJETIVO 3: SERVICIOS (LARGO PLAZO - 15 AÑOS)
+═══════════════════════════════════════════════════════════
+
+Objetivo: Ser referente regional en soluciones de transformación digital y ciberseguridad con presencia en múltiples países
+
+Meta esperada: Presencia en 5+ países latinoamericanos; 50+ clientes corporativos; ingresos anuales de $3M+
+
+ACTIVIDADES Y RECURSOS:
+
+1. Desarrollar cartera completa de servicios especializados (consultoría, implementación, soporte 24/7)
+   Responsable: Director de Servicios / Gerencia
+   Recursos:
+   - Personal: 5+ consultores senior, ingenieros de implementación, equipo de soporte técnico
+   - Materiales: manuales de implementación, documentación técnica, guías de mejores prácticas
+   - Equipos: infraestructura de soporte (helpdesk, ticketing)
+   Tiempo: 2 años (desarrollo inicial), 5+ años (evolución continua)
+
+2. Establecer centros regionales de servicio en países seleccionados (Colombia, Perú, Chile)
+   Responsable: Gerencia General / Daniel Guanga
+   Recursos:
+   - Personal: gerentes regionales, especialistas locales, equipos técnicos por país
+   - Infraestructura: oficinas regionales, servidores locales, centros de datos
+   - Presupuesto: infraestructura, operación, marketing local
+   Tiempo: 3-5 años (implementación gradual)
+
+3. Crear programa de certificación de partners y canales de distribución
+   Responsable: Director Comercial
+   Recursos:
+   - Personal: especialista en alianzas estratégicas, coordinador de partners
+   - Materiales: programa de certificación, manuales de partner, materiales de marketing
+   - Presupuesto: capacitación de partners, incentivos de ventas
+   Tiempo: 2-3 años (estructura), 5+ años (escalamiento)
+
+4. Consolidar marca Pangust Systems como referente mediante publicaciones, conferencias e investigación
+   Responsable: Gerencia / Marketing y Comunicaciones
+   Recursos:
+   - Personal: especialista en marketing, community manager, investigador
+   - Presupuesto: conferencias internacionales, publicaciones en medios técnicos, investigación
+   - Equipos: herramientas de marketing digital, análisis de marca
+   Tiempo: 5+ años (continuo)
+
+====================================
+ALINEACIÓN CON MISIÓN Y VISIÓN
+====================================
+
+MISIÓN: Desarrollar soluciones tecnológicas integrales para pymes, combinando software, automatización y ciberseguridad, para mejorar su eficiencia, proteger su información y fortalecer su competitividad, con un servicio cercano, ético y orientado a resultados sostenibles.
+
+VISIÓN: Al 2027, ser una empresa referente en soluciones de transformación digital y ciberseguridad para pymes en Ecuador, reconocida por su innovación, confiabilidad y capacidad de generar crecimiento sostenible en sus clientes.
+
+VALORES:
+- Innovación con propósito: Aplicamos tecnología para resolver problemas reales del cliente
+- Compromiso con la seguridad: Protegemos información y continuidad operativa
+- Orientación al cliente: Adaptamos cada solución al contexto de cada pyme
+
+ALINEACIÓN:
+Los objetivos estratégicos responden directamente a la misión mediante:
+- Consolidación del equipo técnico especializado (soporte a "soluciones integrales")
+- Expansión de plataforma tecnológica multi-nube (cumplimiento de "automatización y ciberseguridad")
+- Desarrollo de servicios especializados (materialización del "servicio cercano y orientado a resultados")
+
+La visión al 2027 se ejecuta a través del objetivo de corto plazo (consolidar equipo), mediano plazo (expandir tecnología) y largo plazo (posicionarse como referente regional), asegurando crecimiento sostenible y reconocimiento en el mercado latinoamericano.
+
+====================================
+BIBLIOGRAFÍA
+====================================
+
+Chiavenato, I., & Sapiro, A. (2017). Planeación estratégica. México: McGraw-Hill Interamericana.
